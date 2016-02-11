@@ -23,4 +23,3 @@ This app will have the following features:
 @team: [Sly pyhton](https://github.com/orgs/BitTigerInst/teams/sly-python)
 @Members: [@lululiu008](https://github.com/orgs/BitTigerInst/people/lululiu008), [@jiweix](https://github.com/orgs/BitTigerInst/people/jiweix), 
 [@yuqinlear](https://github.com/orgs/BitTigerInst/people/yuqinlear)
-
